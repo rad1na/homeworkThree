@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gotu', sans-serif;
+}
+.container {
+    display:grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    width:100%;
+}
+
+.header {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    width: 500px;
+    height: 250px;
+    background-color: rgb(116, 116, 116);
+    color: white;
+}
+
+.header-box{
+    width: 90%;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.red {
+    background-color: rgb(255, 47, 47);
+}
+
+.aqua {
+    background-color: rgb(27, 214, 214);
+}
+
+.mid-content{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-evenly;
+    height: 50px;
+}
+
+select,input,button {
+    height:40px;
+    margin: 5px;
+}
+
+button {
+    width: 30px;
+}
+
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width:95%;
+    grid-column-gap: 40px;
+}
+
+.content-item {
+    position: relative;
+}
+
+
+.content-list {
+    list-style-type: none;
+}
+
+
+.income > h2 {
+    color: aqua;
+}
+
+.expenses > h2 {
+    color: red;
+}
+
+.x-button {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: red;
+    color: white;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+    line-height: 25px;
+    text-align: center;
+}
+
+.span-right {
+    float: right;
+    padding-right: 65px;
+}
+
+.content-item:hover > .x-button {
+    display: block;
+}
+
+.percentage {
+    color: white;
+    background-color: rgb(252, 112, 112);
+}
+
+.positioned {
+    position: absolute;
+    top: 0;
+    right: 25px;
+}
+

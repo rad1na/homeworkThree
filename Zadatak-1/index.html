@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zadatak 1</title>
+    <link rel="stylesheet" href="index.css">
+    <link href="https://fonts.googleapis.com/css?family=Gotu&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h4>Available budget in september</h4>
+            <h1 class="budget"></h1>
+            <div class="header-box aqua">
+                <div class="box-name">INCOME</div>
+                <div class="box-number"></div>
+            </div>
+            <div class="header-box red">
+                <div class="box-name">EXPENSES</div>
+                <div class="box-number"> <span class="percentage">52%</span></div>
+            </div>
+        </div>
+        <div class="mid-content">
+            <div class="selector">
+                <select name="" id="selection">
+                    <option value="+">+</option>
+                    <option value="-">-</option>
+                </select>
+            </div>
+            <div class="input-fields">
+                <input type="text" id="description" placeholder="Description">
+                <input type="text" id="input-value" placeholder="Value">
+            </div>
+            <button id="submit-button" type="submit">&#x2611;</button>
+        </div>
+        <div class="content">
+            <div class="income">
+                <h2>INCOME</h2>
+                <ul class="content-list">
+                    
+                </ul>
+            </div>
+            <div class="expenses">
+                <h2>EXPENSES</h2>
+                <ul class="content-list">
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>

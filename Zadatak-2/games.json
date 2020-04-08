@@ -1,0 +1,97 @@
+{
+    "data":[
+        {
+            "title" : "PlayerUnknown's Battlegrounds",
+            "img" : "https://amayei.nyc3.digitaloceanspaces.com/2018/11/PUBG-23490.jpg",
+            "genre" : "Battle Royale",
+            "publisher" : "PUBG Corporation",
+            "rating" : 8.6,
+            "reldate" : "December 20, 2017",
+            "url" : "https://www.pubg.com/"
+        },
+        {
+            "title" : "Minecraft",
+            "img" : "https://images.igdb.com/igdb/image/upload/t_cover_big/co1x7j.jpg",
+            "genre" : "Sandbox, Survival",
+            "publisher" : "Mojang",
+            "rating" : 9.1,
+            "reldate" : "November 18, 2011",
+            "url" : "https://www.minecraft.net/en-us/"
+        },
+        {
+            "title" : "World of Warcraft",
+            "img" : "https://blznav.akamaized.net/img/games/cards/card-world-of-warcraft-54576e6364584e35.jpg",
+            "genre" : "MMORPG",
+            "publisher" : "Blizzard Entertainment",
+            "rating" : 7.8,
+            "reldate" : "November 23, 2004",
+            "url" : "https://worldofwarcraft.com/en-gb/"
+        },
+        {
+            "title" : "Battlefield 1",
+            "img" : "https://media.contentapi.ea.com/content/dam/bf/images/bfcom-migration/battlefield-1.jpg.adapt.crop191x100.1200w.jpg",
+            "genre" : "First-Person Shooter",
+            "publisher" : "Electronic Arts",
+            "rating" : 9.2,
+            "reldate" : "October 21, 2016",
+            "url" : "https://www.ea.com/en-gb/games/battlefield/battlefield-1"
+        },
+        {
+            "title" : "Call of Duty: Warzone",
+            "img" : "https://zilliongamer.com/uploads/game-featured/call-of-duty-warzone-featured.jpg",
+            "genre" : "Battle Royale",
+            "publisher" : "Activision",
+            "rating" : 8.2,
+            "reldate" : "March 10, 2020",
+            "url" : "https://www.callofduty.com/warzone"
+        },
+        {
+            "title" : "Fortnite",
+            "img" : "https://zilliongamer.com/uploads/game-featured/fortnite.jpg",
+            "genre" : "Battle Royale",
+            "publisher" : "Epic Games",
+            "rating" : 8.3,
+            "reldate" : "Jul 25, 2017",
+            "url" : "https://www.epicgames.com/fortnite/en-US/home"
+        },
+        {
+            "title" : "Assassin's Creed Odyssey",
+            "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/ACOdysseyCoverArt.png/220px-ACOdysseyCoverArt.png",
+            "genre" : "Action,RPG",
+            "publisher" : "Ubisoft",
+            "rating" : 8.8,
+            "reldate" : "Oct 05, 2018",
+            "url" : "https://assassinscreed.ubisoft.com/game/en-us/home"
+        },
+        {
+            "title" : "Doom: Eternal",
+            "img" : "https://images.igdb.com/igdb/image/upload/t_cover_big/co1lvj.jpg",
+            "genre" : "Shooter",
+            "publisher" : "Bethesda",
+            "rating" : 8.9,
+            "reldate" : "Mar 20, 2020",
+            "url" : "https://assassinscreed.ubisoft.com/game/en-us/home"
+        },
+        {
+            "title" : "Metro Exodus",
+            "img" : "https://images.igdb.com/igdb/image/upload/t_cover_big/co1iuj.jpg",
+            "genre" : "Adventure,Shooter",
+            "publisher" : "Deep Silver",
+            "rating" : 8.3,
+            "reldate" : "Feb 15, 2019",
+            "url" : "https://www.metrothegame.com/en-gb/"
+        },
+        {
+            "title" : "Half-Life: Alyx",
+            "img" : "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tq3.jpg",
+            "genre" : "Action,Science-fiction",
+            "publisher" : "Valve",
+            "rating" : 9.4,
+            "reldate" : "Mar 23, 2020",
+            "url" : "https://www.half-life.com/en/alyx/"
+        }
+
+        
+        
+    ]
+}

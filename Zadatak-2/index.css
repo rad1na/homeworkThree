@@ -41,6 +41,7 @@ td {
 td img{
     max-width: 100px;
     max-height: 100px;
+    cursor: pointer;
 }
 .delete-button{
     width: 30px;
@@ -56,4 +57,15 @@ td img{
 
 input[type="text"]{
     width: 300px;
+}
+
+#load-more {
+    width: 20%;
+    height: 40px;
+    justify-self: center;
+    margin: 20px;
+    background-color: #AB3428;
+    color: white;
+    border: none;
+    cursor: pointer;
 }

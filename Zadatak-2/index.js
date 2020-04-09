@@ -103,7 +103,6 @@ function searchItems(e){
                 return genre;
             }
         })
-        console.log(genres); 
         if(genres.length > 0){
             return item;
         }
